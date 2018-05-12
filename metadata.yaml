@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26291
     wikipedia: http://en.wikipedia.org/wiki/Stefan_Zweig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34888#Romain-Rolland--The-Man-and-His-Work
 gutenberg_issued: '2011-01-08'
 gutenberg_type: Text
 identifiers:
